@@ -8,4 +8,4 @@ Cards that are searchable
  - JSONPlaceholder API
  
  # App Gifs
-  ![Search Gif](search.gif)
+  ![Search Gif](public/search.gif)
